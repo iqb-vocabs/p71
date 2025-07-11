@@ -1,0 +1,14 @@
+{
+  "id": "mas1",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Metadatenprofile für Testaufgaben: Mathematik Sek I"
+    }
+  ],
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "unit.json",
+    "item.json"
+  ]
+}
