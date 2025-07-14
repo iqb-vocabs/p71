@@ -45,11 +45,11 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/item.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Taschenrechnereinsatz | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | a0 |
+| Taschenrechnereinsatz | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_calculator |
 | Itemformat | [Vokabular](https://w3id.org/iqb/v27/ms/) | url: 'https://w3id.org/iqb/v27/ms/', Einmalauswahl, Nummerierung unterdrückt | s1 |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v51/a1/) | url: 'https://w3id.org/iqb/v51/a1/', Einmalauswahl, Nummerierung unterdrückt | s2 |
-| Inhaltsbezogener Bildungsstandard ESA primär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Einmalauswahl | s3 |
-| Inhaltsbezogener Bildungsstandard MSA primär | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Einmalauswahl | s4 |
+| Inhaltsbezogener Bildungsstandard ESA primär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Mehrfachauswahl | s3 |
+| Inhaltsbezogener Bildungsstandard MSA primär | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Mehrfachauswahl | s4 |
 | Prozessbezogener Bildungsstandard | [Vokabular](https://w3id.org/iqb/v51/p1/) | url: 'https://w3id.org/iqb/v51/p1/', Mehrfachauswahl | s6 |
 | Inhaltsbezogener Bildungsstandard ESA sekundär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Mehrfachauswahl | s7 |
 | Inhaltsbezogener Bildungsstandard MSA sekundär | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Mehrfachauswahl | s8 |

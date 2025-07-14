@@ -14,7 +14,7 @@
       ],
       "entries": [
         {
-          "id": "a0",
+          "id": "iqb_calculator",
           "label": [
             {
               "lang": "de",
@@ -78,7 +78,7 @@
           "type": "vocabulary",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/ie/",
-            "allowMultipleValues": false
+            "allowMultipleValues": true
           }
         },
         {
@@ -92,7 +92,7 @@
           "type": "vocabulary",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/im/",
-            "allowMultipleValues": false
+            "allowMultipleValues": true
           }
         },
         {
