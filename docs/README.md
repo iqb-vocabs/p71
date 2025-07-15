@@ -40,7 +40,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/item.jso
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
 | Taschenrechnereinsatz | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_calculator |
-| Itemformat | [Vokabular](https://w3id.org/iqb/v27/ms/) | url: 'https://w3id.org/iqb/v27/ms/', Einmalauswahl, Nummerierung unterdrückt | iqb_itemformat |
+| Itemformat | [Vokabular](https://w3id.org/iqb/v27/ms/) | url: 'https://w3id.org/iqb/v27/ms/', Einmalauswahl, Nummerierung unterdrückt | iqb_item_format |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v51/a1/) | url: 'https://w3id.org/iqb/v51/a1/', Einmalauswahl, Nummerierung unterdrückt | iqb_requirement_area |
 | Inhaltsbezogener Bildungsstandard ESA primär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Mehrfachauswahl | iqb_standards_esa1 |
 | Inhaltsbezogener Bildungsstandard MSA primär | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Mehrfachauswahl | iqb_standards_msa1 |
