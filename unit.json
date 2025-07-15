@@ -27,7 +27,7 @@
           }
         },
         {
-          "id": "f0",
+          "id": "iqb_edLevel",
           "label": [
             {
               "lang": "de",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "id": "f1",
+          "id": "iqb_school_type",
           "label": [
             {
               "lang": "de",
@@ -57,7 +57,7 @@
           }
         },
         {
-          "id": "a1",
+          "id": "iqb_spf",
           "label": [
             {
               "lang": "de",
@@ -96,7 +96,7 @@
           }
         },
          {
-          "id": "w0",
+          "id": "iqb_competence",
           "label": [
             {
               "lang": "de",

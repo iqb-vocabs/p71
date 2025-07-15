@@ -38,7 +38,7 @@
           }
         },
         {
-          "id": "s1",
+          "id": "iqb_itemformat",
           "label": [
             {
               "lang": "de",
@@ -53,7 +53,7 @@
           }
         },
         {
-          "id": "s2",
+          "id": "iqb_requirement_area",
           "label": [
             {
               "lang": "de",
@@ -68,7 +68,7 @@
           }
         },
         {
-          "id": "s3",
+          "id": "iqb_standards_esa1",
           "label": [
             {
               "lang": "de",
@@ -82,7 +82,7 @@
           }
         },
         {
-          "id": "s4",
+          "id": "iqb_standards_msa1",
           "label": [
             {
               "lang": "de",
@@ -96,7 +96,7 @@
           }
         },
         {
-          "id": "s6",
+          "id": "iqb_standards_pr",
           "label": [
             {
               "lang": "de",
@@ -110,7 +110,7 @@
           }
         },
         {
-          "id": "s7",
+          "id": "iqb_standards_esa2",
           "label": [
             {
               "lang": "de",
@@ -124,7 +124,7 @@
           }
         },
         {
-          "id": "s8",
+          "id": "iqb_standards_msa2",
           "label": [
             {
               "lang": "de",
@@ -153,7 +153,7 @@
           }
         },
         {
-          "id": "e4",
+          "id": "iqb_complexity",
           "label": [
             {
               "lang": "de",
