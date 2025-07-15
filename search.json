@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Metadatenprofile für Testaufgaben - Mathematik Sek I",
+    "section": "",
+    "text": "ID of profile-store: mas1\nPublisher: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 Profile definiert:"
+  },
+  {
+    "objectID": "index.html#stimulus",
+    "href": "index.html#stimulus",
+    "title": "Metadatenprofile für Testaufgaben - Mathematik Sek I",
+    "section": "Stimulus",
+    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nEntwickler:in\nText\nEinzeilig, Sprache(n): de\niqb_author\n\n\nKlassenstufe\nVokabular\nurl: ‘http://w3id.org/openeduhub/vocabs/educationalLevel/’, Mehrfachauswahl, Nummerierung unterdrückt\niqb_educational_level\n\n\nSchulform\nVokabular\nurl: ‘https://w3id.org/kim/schularten/’, Mehrfachauswahl, Nummerierung unterdrückt\niqb_school_type\n\n\nFür SPF geeignet\nJa/Nein\nText für WAHR: ja, Text für FALSCH: nein\niqb_spf\n\n\nKopfhörereinsatz\nVokabular\nurl: ‘https://w3id.org/iqb/v24/kh/’, Einmalauswahl, Nummerierung unterdrückt\niqb_phones\n\n\nLeitidee\nVokabular\nurl: ‘https://w3id.org/iqb/v51/im/’, Einmalauswahl, Zeige nur erste Ebene, Nummerierung unterdrückt\niqb_competence\n\n\nStimuluszeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_stimulus\n\n\nAufgabenzeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_unit\n\n\nAnzahl Vorspielen\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_play\n\n\nQuellenangaben\nText\nMehrzeilig, Sprache(n): de\niqb_copyright\n\n\nNotizfeld\nText\nMehrzeilig, Sprache(n): de\niqb_note_field\n\n\nUnverträgliche Aufgaben\nText\nEinzeilig, Sprache(n): de\niqb_compatibility"
+  },
+  {
+    "objectID": "index.html#hörsequenzvideo",
+    "href": "index.html#hörsequenzvideo",
+    "title": "Metadatenprofile für Testaufgaben - Mathematik Sek I",
+    "section": "Hörsequenz/Video",
+    "text": "Hörsequenz/Video\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nTranskript\nText\nMehrzeilig, Sprache(n): de\niqb_transcript"
+  }
+]
