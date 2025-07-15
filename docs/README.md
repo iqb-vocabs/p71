@@ -15,7 +15,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/unit.jso
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
 | Entwickler:in | Text | Einzeilig, Sprache(n): de   | iqb_author |
-| Klassenstufe | [Vokabular](http://w3id.org/openeduhub/vocabs/educationalLevel/) | url: 'http://w3id.org/openeduhub/vocabs/educationalLevel/', Mehrfachauswahl, Nummerierung unterdrückt | iqb_edLevel |
+| Klassenstufe | [Vokabular](http://w3id.org/openeduhub/vocabs/educationalLevel/) | url: 'http://w3id.org/openeduhub/vocabs/educationalLevel/', Mehrfachauswahl, Nummerierung unterdrückt | iqb_educational_level |
 | Schulform | [Vokabular](https://w3id.org/kim/schularten/) | url: 'https://w3id.org/kim/schularten/', Mehrfachauswahl, Nummerierung unterdrückt | iqb_school_type |
 | Für SPF geeignet | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_spf |
 | Kopfhörereinsatz | [Vokabular](https://w3id.org/iqb/v24/kh/) | url: 'https://w3id.org/iqb/v24/kh/', Einmalauswahl, Nummerierung unterdrückt | iqb_phones |
@@ -48,6 +48,6 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/item.jso
 | Inhaltsbezogener Bildungsstandard ESA sekundär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Mehrfachauswahl | iqb_standards_esa2 |
 | Inhaltsbezogener Bildungsstandard MSA sekundär | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Mehrfachauswahl | iqb_standards_msa2 |
 | Itemzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_item |
-| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | iqb_complexity |
+| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | iqb_exante_difficulty |
 | Technische Besonderheiten der Antwortoptionen | [Vokabular](https://w3id.org/iqb/v27/ti/) | url: 'https://w3id.org/iqb/v27/ti/', Mehrfachauswahl | iqb_itemtech |
 
