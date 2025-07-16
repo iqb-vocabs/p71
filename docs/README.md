@@ -2,7 +2,7 @@
 
 ID of profile-store: `mas1`
 
-Publisher: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
+Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
