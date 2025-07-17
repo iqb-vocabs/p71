@@ -22,7 +22,6 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/unit.jso
 | Leitidee | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Einmalauswahl, Zeige nur erste Ebene, Nummerierung unterdrückt | iqb_competence |
 | Stimuluszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Aufgabenzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
-| Anzahl Vorspielen | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_play |
 | Quellenangaben | Text | Mehrzeilig, Sprache(n): de   | iqb_copyright |
 | Notizfeld | Text | Mehrzeilig, Sprache(n): de   | iqb_note_field |
 | Unverträgliche Aufgaben | Text | Einzeilig, Sprache(n): de   | iqb_compatibility |
@@ -31,6 +30,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/unit.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
+| Anzahl Vorspielen | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_play |
 | Transkript | Text | Mehrzeilig, Sprache(n): de   | iqb_transcript |
 
 ## Profil "IQB Mathematik Sek I - Item"

@@ -142,21 +142,6 @@
           }
         },
         {
-          "id": "iqb_time_play",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Anzahl Vorspielen"
-            }
-          ],
-          "type": "number",
-          "parameters": {
-            "minValue": 0,
-            "digits": 0,
-            "isPeriodSeconds": true
-          }
-        },
-        {
           "id": "iqb_copyright",
           "label": [
             {
@@ -205,6 +190,21 @@
         }
       ],
       "entries": [
+        {
+          "id": "iqb_time_play",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Anzahl Vorspielen"
+            }
+          ],
+          "type": "number",
+          "parameters": {
+            "minValue": 0,
+            "digits": 0,
+            "isPeriodSeconds": true
+          }
+        },
          {
           "id": "iqb_transcript",
           "label": [
