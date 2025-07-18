@@ -18,6 +18,6 @@
     "href": "index.html#hörsequenzvideo",
     "title": "Metadatenprofile für Testaufgaben - Mathematik Sek I",
     "section": "Hörsequenz/Video",
-    "text": "Hörsequenz/Video\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nAnzahl Vorspielen\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_play\n\n\nTranskript\nText\nMehrzeilig, Sprache(n): de\niqb_transcript"
+    "text": "Hörsequenz/Video\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nAnzahl Vorspielen\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein\niqb_time_play\n\n\nTranskript\nText\nMehrzeilig, Sprache(n): de\niqb_transcript"
   }
 ]
