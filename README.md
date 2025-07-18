@@ -8,3 +8,4 @@ Für eine Textansicht der hier gespeicherten Profile [bitte hier klicken](/docs#
 
 * [Informationen zum Metadaten-Management des IQB](https://iqb-vocabs.github.io)
 * [Kontakt IQB](mailto:iqb-tbadev@hu-berlin.de)
+
