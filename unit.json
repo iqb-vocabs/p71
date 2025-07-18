@@ -201,8 +201,7 @@
           "type": "number",
           "parameters": {
             "minValue": 0,
-            "digits": 0,
-            "isPeriodSeconds": true
+            "digits": 0
           }
         },
          {

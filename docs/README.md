@@ -30,7 +30,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/unit.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Anzahl Vorspielen | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_play |
+| Anzahl Vorspielen | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein | iqb_time_play |
 | Transkript | Text | Mehrzeilig, Sprache(n): de   | iqb_transcript |
 
 ## Profil "IQB Mathematik Sek I - Item"
