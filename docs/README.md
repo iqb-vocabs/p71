@@ -18,6 +18,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/unit.jso
 | Klassenstufe | [Vokabular](http://w3id.org/openeduhub/vocabs/educationalLevel/) | url: 'http://w3id.org/openeduhub/vocabs/educationalLevel/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | iqb_educational_level |
 | Schulform | [Vokabular](https://w3id.org/kim/schularten/) | url: 'https://w3id.org/kim/schularten/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | iqb_school_type |
 | Für SPF geeignet | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_spf |
+| hilfsmittelfrei | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_unassisted |
 | Kopfhörereinsatz | [Vokabular](https://w3id.org/iqb/v24/kh/) | url: 'https://w3id.org/iqb/v24/kh/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | iqb_phones |
 | Leitidee | [Vokabular](https://w3id.org/iqb/v51/im/) | url: 'https://w3id.org/iqb/v51/im/', Einmalauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt | iqb_competence |
 | Stimuluszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
@@ -39,7 +40,6 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p71/master/item.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Taschenrechnereinsatz | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_calculator |
 | Itemformat | [Vokabular](https://w3id.org/iqb/v27/ms/) | url: 'https://w3id.org/iqb/v27/ms/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | iqb_item_format |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v51/a1/) | url: 'https://w3id.org/iqb/v51/a1/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | iqb_requirement_area |
 | Inhaltsbezogener Bildungsstandard ESA primär | [Vokabular](https://w3id.org/iqb/v51/ie/) | url: 'https://w3id.org/iqb/v51/ie/', Mehrfachauswahl, Dialogbox | iqb_standards_esa1 |

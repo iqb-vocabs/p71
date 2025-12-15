@@ -81,6 +81,30 @@
           }
         },
         {
+          "id": "iqb_unassisted",
+          "label": [
+            {
+              "lang": "de",
+              "value": "hilfsmittelfrei"
+            }
+          ],
+          "type": "boolean",
+          "parameters": {
+            "trueLabel": [
+              {
+                "lang": "de",
+                "value": "ja"
+              }
+            ],
+            "falseLabel": [
+              {
+                "lang": "de",
+                "value": "nein"
+              }
+            ]
+          }
+        },
+        {
           "id": "iqb_phones",
           "label": [
             {

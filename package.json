@@ -1,6 +1,6 @@
 {
   "name": "p71",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0 1.0",
   "description": "Metadatenprofile: Mathematik Sek I",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/p71#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "^0.10.0"
   }
 }

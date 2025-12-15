@@ -14,30 +14,6 @@
       ],
       "entries": [
         {
-          "id": "iqb_calculator",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Taschenrechnereinsatz"
-            }
-          ],
-          "type": "boolean",
-          "parameters": {
-            "trueLabel": [
-              {
-                "lang": "de",
-                "value": "ja"
-              }
-            ],
-            "falseLabel": [
-              {
-                "lang": "de",
-                "value": "nein"
-              }
-            ]
-          }
-        },
-        {
           "id": "iqb_item_format",
           "label": [
             {
