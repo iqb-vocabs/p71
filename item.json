@@ -1,9 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p71/master/item.json",
-  "label": [{
-    "lang": "de",
-    "value": "IQB Mathematik Sek I - Item"
-  }],
+  "label": [
+    {
+      "lang": "de",
+      "value": "IQB Mathematik Sek I - Item"
+    }
+  ],
+  "target": [
+    "ITEM"
+  ],
   "groups": [
     {
       "label": [
@@ -21,7 +26,7 @@
               "value": "Itemformat"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/ms/",
             "allowMultipleValues": false,
@@ -36,7 +41,7 @@
               "value": "Anforderungsbereich"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/a1/",
             "allowMultipleValues": false,
@@ -51,7 +56,7 @@
               "value": "Inhaltsbezogener Bildungsstandard ESA primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/ie/",
             "allowMultipleValues": true
@@ -65,7 +70,7 @@
               "value": "Inhaltsbezogener Bildungsstandard MSA primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/im/",
             "allowMultipleValues": true
@@ -79,7 +84,7 @@
               "value": "Prozessbezogener Bildungsstandard"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/p1/",
             "allowMultipleValues": true
@@ -93,7 +98,7 @@
               "value": "Inhaltsbezogener Bildungsstandard ESA sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/ie/",
             "allowMultipleValues": true
@@ -107,7 +112,7 @@
               "value": "Inhaltsbezogener Bildungsstandard MSA sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v51/im/",
             "allowMultipleValues": true
@@ -121,7 +126,7 @@
               "value": "Itemzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -136,7 +141,7 @@
               "value": "Geschätzte Schwierigkeit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v26/ea/",
             "allowMultipleValues": false
@@ -150,7 +155,7 @@
               "value": "Technische Besonderheiten der Antwortoptionen"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/ti/",
             "allowMultipleValues": true
